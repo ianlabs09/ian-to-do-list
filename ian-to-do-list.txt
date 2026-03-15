@@ -1,5 +1,6 @@
 To do List
-- Merapihkan data laptop
+- Merapihkan Data Laptop
+- Merapihkan data Iphone
 - Belajar Coding
 - belajar investasi
 - Membuat Portofolio Website
